@@ -1,1 +1,1 @@
-# HW.Maze
+# Maze
